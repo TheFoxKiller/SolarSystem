@@ -1,0 +1,26 @@
+﻿  Render.cpp
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(142): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(144): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(145): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(1875): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(1876): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(1877): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(1972): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(1973): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(1974): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(2027): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(2028): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(2828): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(2829): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(2830): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(2877): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(2878): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(2879): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\asus\desktop\курсач_кг — готово\openglrememberproj\render.cpp(2933): warning C4101: c: неиспользованная локальная переменная
+  PrimitivesStatic.cpp
+  Primitives.cpp
+  OpenGLrememberProj.cpp
+  Object.cpp
+  MyOGL.cpp
+  Создание кода...
+  OpenGLrememberProj.vcxproj -> C:\Users\Asus\Desktop\курсач_кг — готово\Debug\OpenGLrememberProj.exe
